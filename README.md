@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
-<h3 align="center">Junior Software/Data Engineer from Singapore</h3>
+<h3 align="center">Junior Data Scientist from Singapore</h3>
 
 - 🌱 I’m currently learning **PySpark**
 
